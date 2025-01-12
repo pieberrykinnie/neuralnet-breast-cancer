@@ -2,6 +2,8 @@
 
 A project demonstrating the use of R's `neuralnet` package to predict breast cancer diagnoses using the Wisconsin Breast Cancer Dataset.
 
+Knitted HTML document: https://pieberrykinnie.github.io/neuralnet-breast-cancer/
+
 ## Overview
 
 This project implements a neural network to classify breast tumors as either benign or malignant based on cell nuclei features. Using the Wisconsin Breast Cancer Dataset, which contains measurements from 569 breast mass samples, the model achieves up to 96.83% accuracy in classification.
